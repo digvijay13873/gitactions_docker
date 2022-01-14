@@ -3,7 +3,7 @@ name: docker_linux
 on:
   push:
     branches:
-      - 'main'
+      - main
       
 jobs:
   build:
